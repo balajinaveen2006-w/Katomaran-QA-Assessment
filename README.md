@@ -25,7 +25,7 @@
 ### Task 1 – Test Case Document
 - Login Module Test Cases
 - Sign Up Module Test Cases
-- 40 Professional Test Cases
+- 53 Professional Test Cases
 - Positive & Negative Test Scenarios
 
 ### Task 2 – Defect Report
